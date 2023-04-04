@@ -1,0 +1,9 @@
+.animal .card-img-top {
+  height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.animal .list-group-item {
+  padding-left: 0;
+  padding-right: 0;
+}/*# sourceMappingURL=app.css.map */

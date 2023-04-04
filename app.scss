@@ -1,0 +1,13 @@
+$img-size: 200px;
+
+.animal {
+    .card-img-top {
+        height: $img-size;
+        object-fit: cover;
+    }
+
+    .list-group-item {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
